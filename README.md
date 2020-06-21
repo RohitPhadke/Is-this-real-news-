@@ -6,4 +6,6 @@
 • If you want to view the deployed model, click on the following link:<br />
 Deployed at: _https://is-this-fake-news-api.herokuapp.com/_
 
+• Dataset link :- https://www.kaggle.com/c/fake-news/data?select=train.csv
+
 • Please do ⭐ the repository, if it helped you in anyway.
