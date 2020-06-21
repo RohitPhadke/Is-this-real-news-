@@ -16,7 +16,7 @@ import re
 # In[19]:
 
 
-df=pd.read_csv('D:/Portfolio Projects/Is this real news/data/train.csv')
+df=pd.read_csv('train.csv')
 
 
 # In[20]:
