@@ -7,7 +7,3 @@
 Deployed at: _https://is-this-fake-news-api.herokuapp.com/_
 
 • Please do ⭐ the repository, if it helped you in anyway.
-
-• A glimpse of the web app:
-
-![GIF](readme_resources/spam-sms-web-app.gif)
